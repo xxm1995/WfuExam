@@ -9,7 +9,7 @@ import cn.xxm.WFU.service.SubjectServiceImpl;
 import com.opensymphony.xwork2.ActionSupport;
 
 /*
- * 获得更新试题前的试题
+ * 鑾峰緱鏇存柊璇曢鍓嶇殑璇曢
  */
 public class SubjectUpdateBefore extends ActionSupport {
 	private int subjectID;
